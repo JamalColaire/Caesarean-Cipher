@@ -9,7 +9,7 @@ int main()
 	{
 		if( isalpha(ch))
 		{
-			if( toupper(ch)>='A' && toupper(ch)<='M')
+			if( toupper(ch)>='A' && toupper(ch)<='M') // Changing characters to upper case
 				ch+= 13;
 			else
 				ch-= 13;
