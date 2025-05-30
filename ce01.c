@@ -5,7 +5,7 @@ int main()
 {
 	int ch;
 
-	while( (ch = getchar()) != EOF) // loop through the message
+	while( (ch = getchar()) != EOF) // Looping through the message
 	{
 		if( isalpha(ch))
 		{
