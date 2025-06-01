@@ -7,7 +7,7 @@ int main()
 
   shift = 'D' - 'A';
 
-  while ((ch = getchar()) != EOF)
+  while ((ch = getchar()) != EOF) // Retriving a specific character
   {
     if (isalpha(ch))
     {
