@@ -12,7 +12,7 @@ int main()
     if (isalpha(ch))
     {
       ch += shift;
-      if (ch < 'A' || (ch > 'Z' && ch < 'a'))
+      if (ch < 'A' || (ch > 'Z' && ch < 'a')) // checks if character is a letter
         ch += 26;
     }
     putchar(ch);
