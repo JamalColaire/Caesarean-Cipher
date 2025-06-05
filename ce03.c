@@ -5,7 +5,7 @@ int main()
 {
   int shift, ch;
 
-  shift = 'A' - 'D';
+  shift = 'A' - 'D'; // Integer represented by subtracting characters
 
   while ((ch = getchar()) != EOF) // shifting the characters
   {
