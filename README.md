@@ -1,2 +1,2 @@
 # Caesarean Cipher
-A program, using filter programming, to **process input through an I/O filter** to generate customized output.
+A program to **process input through an I/O filter**, using filter programming, to generating customized output.
