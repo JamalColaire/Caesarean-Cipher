@@ -1,2 +1,2 @@
-# Caesarean Cipher / Substitution Cipher
+# Caesarean Cipher
 A program that **processes input through an I/O filter**, to then generate customized output using filter programming.
